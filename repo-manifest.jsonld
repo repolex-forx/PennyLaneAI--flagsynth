@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PennyLaneAI/flagsynth/commit/f117326f7bf9c847da495993caadd3bcd767bd9d",
       "git:hexsha": "f117326f7bf9c847da495993caadd3bcd767bd9d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
